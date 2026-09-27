@@ -1,3 +1,4 @@
+
 grauDoPolinomio = int(input("Digite o grau da equação polinomial: "))
 print()
 
